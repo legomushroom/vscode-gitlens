@@ -2,6 +2,7 @@
 [![](https://vsmarketplacebadge.apphb.com/downloads-short/eamodio.gitlens.svg)](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 [![](https://vsmarketplacebadge.apphb.com/rating-short/eamodio.gitlens.svg)](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 [![](https://img.shields.io/badge/vscode--dev--community-gitlens-blue.svg?logo=slack)](https://vscode-slack.amod.io)
+[![](https://aka.ms/vsls-badge)](https://aka.ms/vsls)
 
 <p align="center">
   <br />
